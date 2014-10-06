@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4E0F2EF1-9BC6-4DA9-9AB9-F207035F02E1}</ProjectGuid>
+    <ProjectGuid>{E3B959FC-7F3C-42FF-B579-38CA1249783E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>TroubleShoot.My.MyApplication</StartupObject>
-    <RootNamespace>TroubleShoot</RootNamespace>
-    <AssemblyName>TroubleShoot</AssemblyName>
+    <StartupObject>ModelNumber.My.MyApplication</StartupObject>
+    <RootNamespace>ModelNumber</RootNamespace>
+    <AssemblyName>ModelNumber</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
@@ -20,7 +20,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>TroubleShoot.xml</DocumentationFile>
+    <DocumentationFile>ModelNumber.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -30,7 +30,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>TroubleShoot.xml</DocumentationFile>
+    <DocumentationFile>ModelNumber.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
