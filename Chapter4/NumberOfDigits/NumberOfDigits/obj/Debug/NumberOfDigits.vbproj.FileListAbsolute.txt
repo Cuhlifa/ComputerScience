@@ -1,1 +1,10 @@
 X:\Users\Connor Peticca\Documents\ComputerScience\Chapter4\NumberOfDigits\NumberOfDigits\bin\Debug\NumberOfDigits.exe.config
+X:\Users\Connor Peticca\Documents\ComputerScience\Chapter4\NumberOfDigits\NumberOfDigits\bin\Debug\NumberOfDigits.exe
+X:\Users\Connor Peticca\Documents\ComputerScience\Chapter4\NumberOfDigits\NumberOfDigits\bin\Debug\NumberOfDigits.pdb
+X:\Users\Connor Peticca\Documents\ComputerScience\Chapter4\NumberOfDigits\NumberOfDigits\bin\Debug\NumberOfDigits.xml
+X:\Users\Connor Peticca\Documents\ComputerScience\Chapter4\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.Form1.resources
+X:\Users\Connor Peticca\Documents\ComputerScience\Chapter4\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.Resources.resources
+X:\Users\Connor Peticca\Documents\ComputerScience\Chapter4\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.vbproj.GenerateResource.Cache
+X:\Users\Connor Peticca\Documents\ComputerScience\Chapter4\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.exe
+X:\Users\Connor Peticca\Documents\ComputerScience\Chapter4\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.xml
+X:\Users\Connor Peticca\Documents\ComputerScience\Chapter4\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.pdb

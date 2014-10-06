@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B2AC7A04-9EE8-4B8D-BD66-836A0B435908}</ProjectGuid>
+    <ProjectGuid>{708CE261-8E19-4258-BFA4-DB93AA132BDA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>NumberOfDigits.My.MyApplication</StartupObject>
-    <RootNamespace>NumberOfDigits</RootNamespace>
-    <AssemblyName>NumberOfDigits</AssemblyName>
+    <StartupObject>Payroll.My.MyApplication</StartupObject>
+    <RootNamespace>Payroll</RootNamespace>
+    <AssemblyName>Payroll</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
@@ -20,7 +20,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>NumberOfDigits.xml</DocumentationFile>
+    <DocumentationFile>Payroll.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -30,7 +30,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>NumberOfDigits.xml</DocumentationFile>
+    <DocumentationFile>Payroll.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
